@@ -1,0 +1,90 @@
+@media (min-width: 0px) and (max-width: 575px) {
+    .banner_content h1 { font-size: 32px; text-align: center; }
+    .banner_content h5 { font-size: 14px; margin-top: -79px; text-align: center; }
+    .banner_content p { text-align: center; }
+    .btn-download { margin-left: 45px; }
+    .phone { display: none; }
+    .banner_content { min-height: 70vh; }
+    .images { margin-right: 20px; }
+    .desgination h2 { margin-right: 87px; font-size: 17px; }
+    .theme h1 { font-size: 26px; margin-bottom: 42px; }
+    .contact {min-height: 114vh;}
+    .contact_content {margin-top: -77px;height: 200px;}
+    .contact_content h3 {margin-top: -10px;}
+    .contact-form {
+        top: 74%;
+        margin-right: 13px;}
+        .heading h5 {
+            margin-top: -24px;
+  }
+  @media (min-width: 0px) and (max-width: 375px){
+    .btn-features {
+        padding: 15px 34px;
+        margin-left: 47px;
+        margin-top: 22px;
+    font-size: 16px;}
+        .banner_content {
+            margin-top: 34px;}
+            .features h3 {
+                font-size: 29px;}
+                .heading h2 {
+                    font-size: 28px;
+                    margin-bottom: 16px;}
+                    .heading p {
+                        font-size: 14px;}
+                        .heading li i {
+                            margin-right: 16px;
+                            font-size: 17px;}
+                            .heading h4 {
+                                font-size: 16px;}
+                                .desgination h2 {
+                                    font-size: 20px !important;}
+                                    .client {
+                                        width: 70%;}
+                                        .heading h1 {
+                                            font-size: 31px;}
+                                            .testimonial{
+                                                min-height: 67vh;
+                                                padding-top: 23px;
+                                            }
+                                            .btn-download{
+                                                font-size: 17px;
+                                            }
+                                            .theme h1{
+                                                font-size: 17px !important;
+                                            }
+                                            .footer-content li{
+                                                margin-left: 23px !important;}
+                                      
+                                            
+                                        
+
+                                            
+  }
+  @media (min-width: 0px) and (max-width: 320px){
+    .client{
+        width: 82% !important;
+    }
+    form input[type="submit"]{
+        padding: 10px 10px;
+  }
+  .footer-content h5 a{
+      font-size: 17px;}
+      .footer-content li{
+          margin-left: 16px;
+          font-size: 20px;}
+
+  }
+  @media (min-width: 0px) and (max-width: 425px){
+    .btn-features {
+        padding: 16px 36px;
+        margin-left: 47px;
+        margin-top: 22px;}
+        .client {
+            width: 60%;}
+            .footer-content li{
+                margin-left: 32px;}
+      
+        }
+      
+  }
